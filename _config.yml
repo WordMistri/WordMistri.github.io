@@ -29,6 +29,8 @@ collections:
     output: true
   stories:
     output: true
+  witnessings:
+    output: true
 
 # Markdown specs
 markdown: kramdown
