@@ -27,6 +27,8 @@ encoding: utf-8
 collections:
   texts:
     output: true
+  stories:
+    output: true
 
 # Markdown specs
 markdown: kramdown
