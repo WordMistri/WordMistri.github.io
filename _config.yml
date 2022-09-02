@@ -10,7 +10,7 @@ baseurl:             ''
 # About/contact
 author:
   name:              Srinivasan G.
-  url:               https://wordmistri.github.io/WordMistri/
+  url:               https://wordmistri.github.io/
   email:             srinivasan.gowrishankar@gmail.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
