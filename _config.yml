@@ -53,6 +53,8 @@ exclude:
   - backstop.json
   - documentation.md
   - search.html
+  - credits.md
+  - about.md
 
 # Theme
 # (Used for local or custom-server deployments)
