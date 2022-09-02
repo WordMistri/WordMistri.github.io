@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: pain of impending separation
+title: Pain of impending separation
 author: 
 editor: 
 source: 
