@@ -7,18 +7,6 @@ title: "WordMistri"
 
 
 <div class="toc">
-  <h2>Poetry</h2>
-  <ul class="texts">
-  {% for item in site.texts %}
-
-    <li class="text-title">
-      <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a>
-    </li>
-  {% endfor %}
-  </ul>
-  
   <h2>Stories</h2>
   <ul class="texts">
   {% for item in site.stories %}
@@ -31,9 +19,21 @@ title: "WordMistri"
   {% endfor %}
   </ul>
   
-  <h2>Witnessings</h2>
+  <h2>Poetry</h2>
   <ul class="texts">
-  {% for item in site.witnessings %}
+  {% for item in site.texts %}
+
+    <li class="text-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+  
+  <h2>Reflections</h2>
+  <ul class="texts">
+  {% for item in site.reflections %}
 
     <li class="text-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
