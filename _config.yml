@@ -27,9 +27,6 @@ encoding: utf-8
 collections:
   texts:
     output: true
-    order:
-      - _texts/Devotion.md
-      - _texts/Arrogant.md
   stories:
     output: true
   witnessings:
