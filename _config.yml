@@ -27,8 +27,8 @@ encoding: utf-8
 collections:
   texts:
     order:
-      - Devotion.md
-      - Arrogant.md
+      -Devotion.md
+      -Arrogant.md
     output: true
   stories:
     output: true
