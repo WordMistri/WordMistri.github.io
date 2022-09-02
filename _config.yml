@@ -25,11 +25,11 @@ encoding: utf-8
 
 # Collections for texts
 collections:
-  texts:
-    output: true
   stories:
     output: true
-  witnessings:
+  texts:
+    output: true
+  reflections:
     output: true
 
 # Markdown specs
