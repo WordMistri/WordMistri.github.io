@@ -29,4 +29,4 @@ On the tenth day of Hospice we stay lost in our own worlds, not interfering with
 
 On the eleventh day of Hospice I am set free from the confines of my bed. Overjoyed, my first act is to hobble to the bathroom and relieve myself. A huge bill is presented, and a huge discount is given.
 
-On the twelfth day of Hospice I see the truth - that hospice is Hospice for a reason: when I am home, it isn't possible to rest my foot the way it's meant to be rested in order to facilitate the best healing.a
+On the twelfth day of Hospice I see the truth - that hospice is Hospice for a reason: when I am home, it isn't possible to rest my foot the way it's meant to be rested in order to facilitate the best healing.
