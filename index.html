@@ -30,5 +30,17 @@ title: "WordMistri"
     </li>
   {% endfor %}
   </ul>
+  
+  <h2>Witnessings</h2>
+  <ul class="texts">
+  {% for item in site.witnessings %}
+
+    <li class="text-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
 </div>
 
