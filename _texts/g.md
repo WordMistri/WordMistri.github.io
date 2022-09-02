@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: THE MOON AND I
+title: The Moon and I
 author: 
 editor: 
 source: 
