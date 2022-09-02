@@ -24,7 +24,7 @@ Purshottam didn’t come back from his saw-mill sojourn in 1991. His uncles turn
 
 Deenu was left alone and with no support system. He lived in the jungle, ate what little he could forage and would surely have died were it not for a group of women who found him sitting at the foot of a tree babbling incoherently. They tried talking to him – he kept covering his face and wouldn’t respond, but he followed them back towards the village. When they reached the temple, they asked the priest to take care of him – he refused. While Deenu lived near the temple for a few days, with some people bringing him food, his situation became more widely known. A retired schoolmaster, Anil, feeling regret for what had transpired in school many years ago, started visiting Deenu on his daily walks, and one day convinced him to come home with him. Deenu spent the night in the aangan of Anil’s house. Anil gave him a broom in the morning, and Deenu started sweeping, first the aangan and then the market road in front of the house. In the afternoon, he brought fodder for Anil’s cows, and pine needles for the cowshed floor. And in the evening, he ate in the aangan and went to sleep in the attic.
 
---x--
+{:.indent-6} --x--
 
 Twenty years have passed, and Deenu’s life has become routine, his white-bearded screwy-eyed stooping figure almost a fixture in the marketplace. He walks around with his broom, mumbling and diligently sweeping leaves and detritus off the street. His old tormentors have come to accept his presence peacefully, except for one man who tries, every time that he is drunk and riding his scooter through the market, to knock Deenu’s woolen cap off his head. He goes every afternoon into the forest and returns with a large bhoja: fodder or firewood or pine-needles or maybe plastic waste. He still does not climb trees, although sometimes he goes near his old home and sits there awhile. His sisters come occasionally from their somewhat distant homes; they remain very fond of him and perhaps regret that their familial responsibilities prevent them from taking better care of him. When they visit, he sits with them at the temple, gently nodding or shaking his head as they speak. 
 
@@ -34,7 +34,7 @@ Early one morning Deenu’s uncles inject him with a tranquilizer and force him 
 
 Deenu’s sister has chosen the same morning to visit her brother. Her surprise at Deenu’s absence gradually turns to shock as she hears the tea shop owner’s words of witness. She sits alone at the temple and weeps, praying to whatever it may be that is almighty that her brother remain safe and protected.
 
---x--
+{:.indent-6} --x--
 
 It is now late at night and Deenu has not yet shifted or been shifted from the car he has been in all day. It stands in the aangan of his ancestors’ house, and when his oldest uncle comes out to lock the gate, he is surprised to find Deenu sitting upright, looking straight-eyed at him. As he approaches, the car door opens and Deenu, in a deep voice that the uncle has not heard in many years, says “Chintu, what is it that you have learnt? The land was not mine, and is not yours or Deenu’s – it is in our destiny to possess it and use it, but not to dispose of it. That is only in the hands of a greater power than us, and we live under that power trying to seek our happiness in this world”. The uncle has only ever been called ‘Chintu’ by his father, and falls into a swoon.
 
