@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: crazy creeping upwards
+title: Crazy Creeping Upwards
 author: 
 editor: 
 source: 
