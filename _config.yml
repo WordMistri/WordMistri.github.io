@@ -26,10 +26,10 @@ encoding: utf-8
 # Collections for texts
 collections:
   texts:
+    output: true
     order:
       -Devotion.md
       -Arrogant.md
-    output: true
   stories:
     output: true
   witnessings:
