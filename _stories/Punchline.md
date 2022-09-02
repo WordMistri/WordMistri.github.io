@@ -1,6 +1,8 @@
 ---
 layout: narrative
-title: Punchline
+title: <p align="center">
+ Punchline
+</p>
 author:
 editor: 
 source:
