@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: Devotion
-author: 
+author:   
 editor: 
 source: 
 ---
