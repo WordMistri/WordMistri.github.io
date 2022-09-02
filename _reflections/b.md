@@ -21,7 +21,7 @@ On the sixth day of Hospice the doctor do site inspection and say to me: "perish
 
 On the seventh day of Hospice I want to pick fights: I make them fix my TV and door, and take a photo of my foot despite their objections.
 
-On the eighth day of Hospice I am denied access to my file. The paternalism and inequality in the relationship are now painfully evident - the fear that the doctor will act against my best interests (getting out of here soon) if I in any way threaten his sense of security. I decide that forgiveness is the best way forward.
+On the eighth day of Hospice I am denied access to my file. The paternalism and inequality in the relationship are now painfully evident - the fear that the doctor will act against my best interests (getting out of here soon) if I in any way threaten his sense of security; I decide that forgiveness is the best way forward.
 
 On the ninth day of Hospice the hospital fights back: my sheets and gown are not changed, the dustbin isn't emptied, the nurses squabble over who's supposed to (not) dress my foot, one doctor examines my foot and walks out without making any small talk, and the other offers to give me haloperidol to ease my mental state.
 
