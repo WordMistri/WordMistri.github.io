@@ -28,8 +28,8 @@ collections:
   texts:
     output: true
     order:
-      - texts/Devotion.md
-      - texts/Arrogant.md
+      - _texts/Devotion.md
+      - _texts/Arrogant.md
   stories:
     output: true
   witnessings:
