@@ -19,3 +19,18 @@ title: "WordMistri"
   {% endfor %}
   </ul>
 </div>
+
+
+<div class="toc">
+  <h2>Stories</h2>
+  <ul class="texts">
+  {% for item in site.stories %}
+
+    <li class="text-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
