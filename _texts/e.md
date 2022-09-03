@@ -7,7 +7,7 @@ source:
 ---
 
 - There lies comfort in being in limbo,
-- perhaps even joy and purpose
+- perhaps even joy and purpose,
 - like the lord narasimha.
 
 - not urban not rural
