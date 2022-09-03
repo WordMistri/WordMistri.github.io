@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Actuality
+title: Humans of the Adda
 author:
 editor: 
 source:
