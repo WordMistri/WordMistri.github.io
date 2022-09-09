@@ -1,6 +1,6 @@
---
+---
 layout: narrative
-title: Shift
+title: The Purpose of the Horse
 author:
 editor: 
 source:
