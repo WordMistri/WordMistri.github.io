@@ -17,5 +17,5 @@ source:
 
 - They talk of a place of surrender where choice is an illusion,
 - a burden carried by ego.
-- And of a secret chord of harmony flowing through the universe 
+- And of a secret chord that vibrates through the universe 
 - making self and nature one, making I one, being and becoming one. 
