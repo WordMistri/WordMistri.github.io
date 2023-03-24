@@ -7,7 +7,7 @@ source:
 ---
 
 - A part of me shines
-- invoking the sun's power,
+- invoking the sun's power
 - illuminating.
 
 - But I'm also dark
