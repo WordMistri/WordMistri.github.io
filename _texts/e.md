@@ -11,7 +11,7 @@ source:
 - like the lord narasimha.
 
 - not urban not rural
-- not employed not free
+- not employed not jobless
 - not rich not poor
 - not english not vernacular
 - not fitting in not left out.
