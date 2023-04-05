@@ -18,7 +18,7 @@ She breaks off as the doors swing open and policemen walk in. There’s a flurry
 
 “So one day” she continues as if nothing has happened “the head honcho from Delhi arrived with news: Don Tattaglia sitting atop his liquor empire funded yachts and ponies and aeroplanes and racecars wants us to manage and maintain his image. Not unaware of his peculiarities and vulgarities, we decide to tread cautiously, like let’s not be overwhelmed, let’s meet him in an informal setting and gauge him, maybe we can invite him to office for a party or something?” 
 
-“But we end up going to his party instead, five of us taking deep breaths in the elevator as it pulls up to the rooftop. The doors open, the only thing we see is the humongous red ruby in its gold setting nestling amidst this expanse of waxed chest and paunch; we just stand there, staring, and as the doors close my boss takes another deep breath and presses the button. We all knew there was just no way we could make this look good”.				
+“But we end up going to his party instead, five of us taking deep breaths in the elevator as it pulls up to the rooftop. The doors open, the only thing we see is the humongous red ruby in its gold setting nestling amidst this expanse of waxed chest and paunch; we just stand there, staring, and as the doors close my boss takes another deep breath and presses the button. We all knew there was just no way we could make that look good”.				
 
 She’s laughing, I don’t join in because the band has just started playing a song I recognize. She’s still smiling as she finishes her drink with a large sip, looks up to nod at the bartender, and gets up and walks away, phone and bag in hand. She pauses to glance at me as she’s pushing the door open, and then she’s gone.
 
